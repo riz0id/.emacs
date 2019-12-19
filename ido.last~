@@ -1,0 +1,73 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "syzygy/")
+ ("/home/syzygy/Documents/website/" . "src/")
+ ("/home/syzygy/Documents/website/src/" . "Class/")
+ ("/home/syzygy/Documents/" . "website/")
+ ("/home/syzygy/.emacs.d/" . ".emacs.rc/")
+ ("/home/syzygy/" . ".emacs.d/")
+ ("/home/syzygy/.config/nixpkgs/" . "GPUCache/")
+ ("/home/syzygy/.config/" . "nixpkgs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/syzygy/.emacs.d/"
+ "/home/syzygy/Documents/website/src/Class/"
+ "/home/syzygy/Documents/website/src/API/"
+ "/home/syzygy/.emacs.d/.emacs.rc/"
+ "/home/syzygy/Documents/website/"
+ "/home/syzygy/.config/nixpkgs/etc/"
+ "/home/syzygy/.config/nixpkgs/"
+ "/home/syzygy/.config/nixpkgs/GPUCache/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "Blog.hs"
+ "Blogpost.hs"
+ "Blogpost_flymake.hs"
+ "spaceline-config.el"
+ "README.md"
+ "fira.el"
+ "rc.el"
+ "spaceline-segments.el"
+ "spaceline.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/syzygy/.emacs.d/" (24058 54980 511359 621000) "../" "init.el" "session.10e76e3cdd9f91e210157356866536551200000011930100" ".local/" "smex-items" "elpa/" "ido.last" "session.107485c5ab2bb804b9157539001479588800000010920072" ".emacs.rc/" "ido.last~" "./" "auto-save-list/" "url/" "init.el~")
+
+ ("/home/syzygy/" (24058 54686 206097 481000) ".histfile" ".zcompdump-athodyd-5.7.1" ".viminfo" ".agda/" "../" ".dbus/" ".zcompdump" ".config/" "###LALA###" "Videos/" "Music/" "Documents/" ".cache/" ".xsession-errors" ".saves/" ".fehbg" "Desktop/" ".cabal/" ".ssh/" ".zshrc" "Downloads/" ".gnupg/" "Templates/" "#LALA#" ".vim/" ".local/" "Public/" ".xfce4-session.verbose-log.last" ".zsh_history" "##LALA##" ".stack/" ".gnome/" ".minecraft/" ".ICEauthority" ".tmux.conf" ".pki/" ".bash_history" ".nix-channels" "GPUCache/" ".compose-cache/" ".esd_auth" "./" ".ghc/" ".xfce4-session.verbose-log" ".xmonad/" ".xsession-errors.old" ".Xresources" "Pictures/" ".scripts/" ".nix-defexpr/" ".Xauthority" ".nix-profile/" ".emacs.d/" ".gitconfig" ".mozilla/")
+
+ ("/home/syzygy/Documents/website/src/Class/" (24058 48516 49637 926000) "../" "Blog.hs~" "./" "Blog.hs")
+
+ ("/home/syzygy/Documents/website/src/API/" (24058 47927 91885 619000) "Blogpost.hs~" "../" "Blogpost.hs" "./" "Blogpost_flymake.hs")
+
+ ("/home/" (23977 1652 161987 127000) "syz/" "../" "syzygy/" "./")
+
+ ("/home/syzygy/Documents/website/src/" (24058 29003 780653 63000) "../" "Main.hs" "API/" "./" "Class/")
+
+ ("/home/syzygy/Documents/website/" (24058 29007 543673 956000) "package.yaml" ".gitignore" "../" "src/" "README.md" "Setup.hs" "website.cabal" ".stack-work/" "stack.yaml.lock" "./" "stack.yaml" "static/")
+
+ ("/home/syzygy/Documents/" (24057 46720 785423 763000) "../" "simulation/" "agon/" "library/" "#website#/" "notes/" "proofs/" "screenshots/" "test/" "./" "blacksholes/" "website/")
+
+ ("/home/syzygy/.emacs.d/.emacs.rc/" (24058 34039 827119 515000) "../" "spaceline-segments.el" "fira.el" "spaceline.el" "./" "rc.el" "spaceline-config.el")
+
+ ("/home/syzygy/.emacs.d/auto-save-list/" (24058 32513 877636 482000) ".saves-31654-athodyd~" ".saves-10722-athodyd~" "../" ".saves-4029-athodyd~" ".saves-4826-athodyd~" ".saves-18723-athodyd~" ".saves-1920-athodyd~" ".saves-31115-athodyd~" ".saves-5957-athodyd~" ".saves-6360-athodyd~" ".saves-9108-athodyd~" ".saves-1850-athodyd~" ".saves-8628-athodyd~" "./" ".saves-18212-athodyd~" ".saves-15942-athodyd~" ".saves-12901-athodyd~")
+
+ ("/home/syzygy/.config/nixpkgs/" (24058 33261 249053 32000) "../" "home.nix" "result/" "config.nix~" "etc/" "config.nix" "home.nix~" "GPUCache/" "./")
+
+ ("/home/syzygy/.config/nixpkgs/etc/" (24058 31546 785747 419000) "xresources.nix" "../" "xresources.nix~" "services.nix" "compton.nix" "polybar-xmonad.nix" "interface.nix" "dunst.nix" "./")
+
+ ("/home/syzygy/.config/nixpkgs/GPUCache/" (23983 23969 517354 645000) "../" "index" "data_1" "./" "data_2" "data_0" "data_3")
+
+ ("/home/syzygy/.config/" (24056 6122 735225 714000) "cef_user_data/" "user-dirs.locale" "gtk-2.0/" "../" "mimeapps.list" "enchant/" "polybar/" "xfce4/" "totem/" "dunst/" "discord/" "google-chrome/" "eog/" "nixpkgs/" "nautilus/" "spotify/" "Thunar/" "epiphany/" "geary/" "libreoffice/" "gtk-3.0/" "user-dirs.dirs" "evince/" "gedit/" "gnome-session/" "evolution/" "ibus/" "kitty/" "pulse/" "./" "dconf/" "doom/" "GIMP/" "autostart/" "goa-1.0/" "systemd/" "menus/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
