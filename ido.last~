@@ -2,65 +2,175 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/syzygy/Documents/formal/Zeno/Data/" . "Nat0/")
+ ("/home/syzygy/Documents/formal/Zeno/" . "Data/")
+ ("/home/syzygy/Documents/formal/" . "Zeno/")
+ ("/home/syzygy/Documents/PRat/Data/" . "Nat+/")
+ ("/home/syzygy/Documents/PRat/" . "Data/")
+ ("/home/syzygy/Documents/scratch/MAlonzo/Code/" . "Agda/")
+ ("/home/syzygy/Documents/scratch/MAlonzo/" . "Code/")
+ ("/home/syzygy/Documents/scratch/" . "MAlonzo/")
+ ("/home/syzygy/Documents/agon/" . "src/")
+ ("/home/syzygy/Documents/test/MAlonzo/Code/" . "Agda/")
+ ("/home/syzygy/Documents/test/MAlonzo/" . "Code/")
+ ("/home/syzygy/Documents/test/" . "MAlonzo/")
+ ("/home/syzygy/Documents/#website#/static/" . "css/")
+ ("/home/syzygy/Documents/#website#/src/" . "Webpages/")
+ ("/home/syzygy/Documents/#website#/" . "static/")
  ("/home/" . "syzygy/")
  ("/home/syzygy/Documents/website/" . "src/")
- ("/home/syzygy/Documents/website/src/" . "Class/")
- ("/home/syzygy/Documents/" . "website/")
+ ("/home/syzygy/Documents/website/src/" . "API/")
+ ("/home/syzygy/Documents/" . "formal/")
  ("/home/syzygy/.emacs.d/" . ".emacs.rc/")
- ("/home/syzygy/" . ".emacs.d/")
+ ("/home/syzygy/" . "Documents/")
  ("/home/syzygy/.config/nixpkgs/" . "GPUCache/")
  ("/home/syzygy/.config/" . "nixpkgs/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/syzygy/.emacs.d/"
- "/home/syzygy/Documents/website/src/Class/"
- "/home/syzygy/Documents/website/src/API/"
+ "/home/syzygy/Documents/formal/Zeno/Data/Nat0/"
+ "/home/syzygy/Documents/formal/Zeno/Data/Nat+/"
+ "/home/syzygy/Documents/formal/Zeno/Data/Rational+/"
+ "/home/syzygy/Documents/formal/Zeno/Data/"
+ "/home/syzygy/Documents/PRat/Data/"
+ "/home/syzygy/Documents/PRat/Data/Nat+/"
+ "/home/syzygy/Documents/formal/Zeno/Data/Nat/"
+ "/nix/store/d31lf1zq5mwfi3hw276hpnb45hkd3yvc-agda-stdlib-1.1/share/agda/Data/Nat/"
+ "/home/syzygy/Documents/PRat/Data/Rational+/"
+ "/home/syzygy/Documents/PRat/"
+ "/home/syzygy/Documents/PRat/Topo/"
+ "/home/syzygy/Documents/plfa/"
+ "/home/syzygy/Documents/scratch/"
  "/home/syzygy/.emacs.d/.emacs.rc/"
+ "/home/syzygy/Documents/website/src/"
+ "/home/syzygy/.emacs.d/"
+ "/home/syzygy/Documents/scratch/MAlonzo/Code/Agda/"
+ "/home/syzygy/Documents/scratch/MAlonzo/"
+ "/home/syzygy/Documents/scratch/MAlonzo/Code/"
+ "/home/syzygy/Documents/website/css/"
  "/home/syzygy/Documents/website/"
- "/home/syzygy/.config/nixpkgs/etc/"
+ "/home/syzygy/Documents/website/src/API/"
+ "/home/syzygy/Documents/agon/src/"
  "/home/syzygy/.config/nixpkgs/"
+ "/home/syzygy/Documents/#website#/"
+ "/home/syzygy/Documents/test/MAlonzo/"
+ "/home/syzygy/Documents/test/MAlonzo/Code/"
+ "/home/syzygy/Documents/test/"
+ "/home/syzygy/Documents/test/MAlonzo/Code/Agda/"
+ "/home/syzygy/Documents/website/src/Templates/"
+ "/home/syzygy/Documents/#website#/static/css/"
+ "/home/syzygy/Documents/#website#/src/Webpages/"
+ "/home/syzygy/Documents/#website#/src/Templates/"
+ "/home/syzygy/Documents/#website#/src/"
+ "/home/syzygy/Documents/website/src/Class/"
+ "/home/syzygy/.config/nixpkgs/etc/"
  "/home/syzygy/.config/nixpkgs/GPUCache/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
- "Blog.hs"
- "Blogpost.hs"
- "Blogpost_flymake.hs"
- "spaceline-config.el"
- "README.md"
- "fira.el"
- "rc.el"
- "spaceline-segments.el"
- "spaceline.el"
+ "Properties.agda"
+ "Base.agda"
+ "Nat+.agda"
+ "Base.agdai"
+ "Nat0.agda"
+ "Nat+.agdai"
+ "Nat.agda"
+ "DivMod.agda"
+ "DivMod.agdai"
+ "GCD.agda"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/syzygy/.emacs.d/" (24058 54980 511359 621000) "../" "init.el" "session.10e76e3cdd9f91e210157356866536551200000011930100" ".local/" "smex-items" "elpa/" "ido.last" "session.107485c5ab2bb804b9157539001479588800000010920072" ".emacs.rc/" "ido.last~" "./" "auto-save-list/" "url/" "init.el~")
+ ("/home/syzygy/Documents/formal/Zeno/Data/Nat0/" (24068 31147 112094 94000) "Properties.agda" "Base.agda~" "../" "Base.agda" "Properties.agdai" "Properties.agda~" "./" "Base.agdai")
 
- ("/home/syzygy/" (24058 54686 206097 481000) ".histfile" ".zcompdump-athodyd-5.7.1" ".viminfo" ".agda/" "../" ".dbus/" ".zcompdump" ".config/" "###LALA###" "Videos/" "Music/" "Documents/" ".cache/" ".xsession-errors" ".saves/" ".fehbg" "Desktop/" ".cabal/" ".ssh/" ".zshrc" "Downloads/" ".gnupg/" "Templates/" "#LALA#" ".vim/" ".local/" "Public/" ".xfce4-session.verbose-log.last" ".zsh_history" "##LALA##" ".stack/" ".gnome/" ".minecraft/" ".ICEauthority" ".tmux.conf" ".pki/" ".bash_history" ".nix-channels" "GPUCache/" ".compose-cache/" ".esd_auth" "./" ".ghc/" ".xfce4-session.verbose-log" ".xmonad/" ".xsession-errors.old" ".Xresources" "Pictures/" ".scripts/" ".nix-defexpr/" ".Xauthority" ".nix-profile/" ".emacs.d/" ".gitconfig" ".mozilla/")
+ ("/home/syzygy/Documents/formal/Zeno/Data/Nat+/" (24068 28502 601169 27000) "Properties.agda" "Base.agda~" "../" "Base.agda" "Properties.agdai" "Properties.agda~" "./" "Base.agdai")
 
- ("/home/syzygy/Documents/website/src/Class/" (24058 48516 49637 926000) "../" "Blog.hs~" "./" "Blog.hs")
+ ("/home/syzygy/Documents/formal/Zeno/Data/Rational+/" (24068 18610 895927 882000) "Base.agda~" "../" "Base.agda" "./" "Base.agdai")
 
- ("/home/syzygy/Documents/website/src/API/" (24058 47927 91885 619000) "Blogpost.hs~" "../" "Blogpost.hs" "./" "Blogpost_flymake.hs")
+ ("/home/syzygy/Documents/formal/Zeno/Data/" (24068 18497 868409 381000) "Nat+.agda~" "../" "Nat+.agda" "Nat0.agda~" "Nat0.agda" "Nat+.agdai" "Nat0.agdai" "Nat0/" "Nat+/" "./" "Rational/" "Rational+/" "Integer/")
+
+ ("/home/syzygy/Documents/PRat/Data/" (24068 18213 112427 975000) "Nat+.agda~" "Rational+.agdai" "Nat+.agda" "Nat0.agda" "Nat+.agdai" "Rational+.agda" "Rational+.agda~" "Nat+/" "../" "./")
+
+ ("/home/syzygy/Documents/PRat/Data/Nat+/" (24068 18164 71321 550000) "Base.agda~" "../" "Base.agda" "GCD.agdai" "GCD.agda" "GCD.agda~" "DivMod.agda~" "DivMod.agdai" "Coprimality.agdai" "./" "Coprimality.agda" "Base.agdai")
+
+ ("/home/syzygy/Documents/formal/Zeno/Data/Nat/" (24068 15800 259155 320000) "../" "Base.agda" ".#Base.agda" "./")
+
+ ("/home/syzygy/.emacs.d/" (24068 14253 606112 205000) ".gitignore" "../" ".git/" "init.el" "session.10e76e3cdd9f91e210157356866536551200000011930100" ".gitignore~" ".local/" "smex-items" "elpa/" "ido.last" "session.107485c5ab2bb804b9157539001479588800000010920072" ".emacs.rc/" "ido.last~" "./" "auto-save-list/" "url/" "init.el~")
+
+ ("/nix/store/d31lf1zq5mwfi3hw276hpnb45hkd3yvc-agda-stdlib-1.1/share/agda/Data/Nat/" (0 1 0 0) "Properties.agda" "../" "GeneralisedArithmetic.agdai" "DivMod/" "Base.agda" "Induction.agda" "Divisibility/" "Show.agdai" "DivMod.agda" "Primality.agda" "GCD.agdai" "Properties.agdai" "Solver.agda" "Divisibility.agdai" "GCD.agda" "Primality.agdai" "GeneralisedArithmetic.agda" "GCD/" "Induction.agdai" "Solver.agdai" "InfinitelyOften.agdai" "DivMod.agdai" "Coprimality.agdai" "WithK.agda" "Literals.agdai" "LCM.agdai" "Literals.agda" "WithK.agdai" "./" "Show.agda" "Coprimality.agda" "InfinitelyOften.agda" "LCM.agda" "Base.agdai" "Divisibility.agda")
+
+ ("/home/syzygy/Documents/formal/Zeno/" (24068 14682 527985 993000) "../" "./" "Data/")
+
+ ("/home/syzygy/Documents/formal/" (24068 14641 462846 550000) "../" "Zeno/" "./")
+
+ ("/home/syzygy/Documents/" (24068 14288 700166 867000) "../" "simulation/" "agon/" "library/" "plfa/" "PRat/" "notes/" "proofs/" "scratch/" "formal/" "screenshots/" "test/" "./" "blacksholes/" "website/")
+
+ ("/home/syzygy/" (24068 4338 443063 639000) ".histfile" ".zcompdump-athodyd-5.7.1" ".viminfo" ".agda/" "../" ".dbus/" ".zcompdump" ".config/" "###LALA###" "Videos/" "Music/" "Documents/" ".cache/" ".xsession-errors" ".saves/" ".fehbg" "Desktop/" ".cabal/" ".ssh/" ".zshrc" "Downloads/" ".gnupg/" "Templates/" "#LALA#" ".vim/" ".local/" "Public/" ".xfce4-session.verbose-log.last" ".zsh_history" "##LALA##" ".stack/" ".gnome/" ".minecraft/" ".ICEauthority" ".tmux.conf" ".pki/" ".bash_history" ".nix-channels" "GPUCache/" ".compose-cache/" ".esd_auth" "./" ".ghc/" ".xfce4-session.verbose-log" ".xmonad/" ".xsession-errors.old" ".Xresources" "Pictures/" ".scripts/" ".nix-defexpr/" ".Xauthority" ".nix-profile/" ".emacs.d/" ".gitconfig" ".mozilla/")
+
+ ("/home/syzygy/Documents/PRat/Data/Rational+/" (24066 28834 902659 212000) "Base.agda~" "../" "Base.agda" "Rational+.agda" "./" "Base.agdai")
+
+ ("/home/syzygy/Documents/PRat/" (24066 27745 813960 732000) "../" "Integer+.agda~" "Premetric.agdai" "./" "Premetric.agda" "Premetric.agda~" "Data/" "Topo/")
+
+ ("/home/syzygy/Documents/PRat/Topo/" (24066 25564 990334 219000) "../" "Premetric.agdai" "./" "Premetric.agda~")
+
+ ("/home/syzygy/Documents/scratch/MAlonzo/Code/" (24063 45346 696855 597000) "Qtest.hi" "../" "Qtest.o" "Agda/" "Qtest.hs" "./" "Qtest.hs~" "TAGS")
+
+ ("/home/syzygy/Documents/plfa/" (24065 15399 961264 263000) "Q+.agdai" "\\" "../" "Lambda.agda~" "Lambda.agdai" "Q+.agda" "Q+.agda~" "Lambda.agda" "./")
+
+ ("/home/syzygy/Documents/scratch/" (24062 48583 38770 453000) "#Nat.hs#" ".#test.agda" "../" "test.agdai" "lala.agda" "Nat.hs" "test.agda~" "Nat.hs~" "MAlonzo/" "Nat.hi" "#test.agda#" "defualt.nix" "Nat.o" "./" "TAGS" "test.agda")
+
+ ("/home/syzygy/.emacs.d/.emacs.rc/" (24061 20182 843246 391000) "../" "spaceline-segments.el" "ligatures.el~" "fira.el" "ligatures.el" "spaceline.el" "./" "rc.el" "spaceline-config.el")
+
+ ("/home/syzygy/Documents/website/src/" (24061 20045 567939 115000) "#Nat.hs#" "../" "Templates.hs" "Type.hs" "Templates/" "Nat.hs~" "API.hs" "Main.hs" "API/" "./" "Class/")
+
+ ("/home/syzygy/Documents/scratch/MAlonzo/Code/Agda/" (24061 19830 898677 353000) "../" "Primitive.hs" "./")
+
+ ("/home/syzygy/Documents/scratch/MAlonzo/" (24061 16839 756054 893000) "../" "RTE.hs" "./" "Code/")
+
+ ("/home/syzygy/Documents/website/css/" (24061 10323 302603 798000) "../" "style.css~" "style.css" "./" "mypdf.pdf")
+
+ ("/home/syzygy/Documents/website/src/API/" (24061 9740 858278 125000) "Index.hs" "../" "Type.hs" "./")
+
+ ("/home/syzygy/Desktop/" (23977 5114 402027 835000) "../" "./")
+
+ ("/home/syzygy/Documents/agon/" (24061 1188 941631 617000) "package.yaml" ".gitignore" "../" "src/" "README.md" "Setup.hs" "LICENSE" ".stack-work/" "stack.yaml.lock" "agon.cabal" "test/" "./" "TAGS" "stack.yaml")
+
+ ("/home/syzygy/Documents/agon/src/" (24061 2380 262656 89000) "Agon.hs~" "../" "./" "Agon.hs" "Agon/")
+
+ ("/home/syzygy/.config/nixpkgs/" (24060 61193 23833 559000) "../" "home.nix" "result/" "config.nix~" "etc/" "config.nix" "home.nix~" "GPUCache/" "./")
+
+ ("/home/syzygy/Documents/website/src/Class/" (24060 56004 548584 608000) "../" "./" "Blog.hs")
+
+ ("/home/syzygy/Documents/#website#/src/Webpages/" (24060 55997 293544 265000) "Index.hs" "../" "Blogpost.hs" "Summary.hs" "./")
+
+ ("/home/syzygy/Documents/#website#/" (24060 18592 936832 939000) "package.yaml" ".gitignore" "../" "src/" "default.nix" "Setup.hs" "website.cabal" "LICENSE" ".stack-work/" "posts/" "stack.yaml.lock" "./" "TAGS" "stack.yaml" "static/" "dist-newstyle/")
+
+ ("/home/syzygy/Documents/website/" (24060 55995 945536 771000) "package.yaml" ".gitignore" "../" "src/" "README.md" ".git/" "Setup.hs" "website.cabal" "css/" ".gitignore~" ".stack-work/" "stack.yaml.lock" "./" "TAGS" "stack.yaml")
+
+ ("/home/syzygy/Documents/test/MAlonzo/Code/" (24060 59542 6282 420000) "../" "Agda/" "Qtest.hs" "./")
+
+ ("/home/syzygy/Documents/test/" (24060 59266 622494 743000) "jAgda.test.js" "../" "test.agdai" "test.agda~" "biginteger.js" "MAlonzo/" "agda-rts.js" "./" "jAgda.Agda.Primitive.js" "test.agda")
+
+ ("/home/syzygy/Documents/test/MAlonzo/Code/Agda/" (24060 58471 888258 0) "../" "Primitive.hs" "./")
+
+ ("/home/syzygy/Documents/test/MAlonzo/" (24060 57991 329888 703000) "../" "RTE.hs" "./" "Code/")
+
+ ("/home/syzygy/Documents/website/src/Templates/" (24060 24256 364908 645000) "Index.hs" "../" "Nav.hs" "Type.hs" "Header.hs" "Footer.hs" "./")
+
+ ("/home/syzygy/Documents/#website#/static/css/" (24060 18323 773410 364000) "index.css" "../" "#post.css#" "#colors.css#" "./" "post.css")
+
+ ("/home/syzygy/Documents/#website#/static/" (24035 19745 608858 128000) "../" "css/" "./")
+
+ ("/home/syzygy/Documents/#website#/src/Templates/" (24060 15787 314251 559000) "Index.hs" "../" "Post.hs" "./")
+
+ ("/home/syzygy/Documents/#website#/src/" (24060 15674 30916 31000) "../" "Parse/" "Templates.hs" "Type.hs" "#Main.hs#" "Parse.hs" "Templates/" "Webpages/" "Main.hs" "./" "Webpages.hs")
+
+ ("/home/syzygy/.emacs.d/auto-save-list/" (24058 60510 677262 770000) ".saves-10722-athodyd~" "../" ".saves-4029-athodyd~" ".saves-4826-athodyd~" ".saves-18723-athodyd~" ".saves-29681-athodyd~" ".saves-1920-athodyd~" ".saves-5957-athodyd~" ".saves-6360-athodyd~" ".saves-9108-athodyd~" ".saves-1850-athodyd~" ".saves-8628-athodyd~" "./" ".saves-18212-athodyd~" ".saves-15942-athodyd~" ".saves-12901-athodyd~")
 
  ("/home/" (23977 1652 161987 127000) "syz/" "../" "syzygy/" "./")
-
- ("/home/syzygy/Documents/website/src/" (24058 29003 780653 63000) "../" "Main.hs" "API/" "./" "Class/")
-
- ("/home/syzygy/Documents/website/" (24058 29007 543673 956000) "package.yaml" ".gitignore" "../" "src/" "README.md" "Setup.hs" "website.cabal" ".stack-work/" "stack.yaml.lock" "./" "stack.yaml" "static/")
-
- ("/home/syzygy/Documents/" (24057 46720 785423 763000) "../" "simulation/" "agon/" "library/" "#website#/" "notes/" "proofs/" "screenshots/" "test/" "./" "blacksholes/" "website/")
-
- ("/home/syzygy/.emacs.d/.emacs.rc/" (24058 34039 827119 515000) "../" "spaceline-segments.el" "fira.el" "spaceline.el" "./" "rc.el" "spaceline-config.el")
-
- ("/home/syzygy/.emacs.d/auto-save-list/" (24058 32513 877636 482000) ".saves-31654-athodyd~" ".saves-10722-athodyd~" "../" ".saves-4029-athodyd~" ".saves-4826-athodyd~" ".saves-18723-athodyd~" ".saves-1920-athodyd~" ".saves-31115-athodyd~" ".saves-5957-athodyd~" ".saves-6360-athodyd~" ".saves-9108-athodyd~" ".saves-1850-athodyd~" ".saves-8628-athodyd~" "./" ".saves-18212-athodyd~" ".saves-15942-athodyd~" ".saves-12901-athodyd~")
-
- ("/home/syzygy/.config/nixpkgs/" (24058 33261 249053 32000) "../" "home.nix" "result/" "config.nix~" "etc/" "config.nix" "home.nix~" "GPUCache/" "./")
 
  ("/home/syzygy/.config/nixpkgs/etc/" (24058 31546 785747 419000) "xresources.nix" "../" "xresources.nix~" "services.nix" "compton.nix" "polybar-xmonad.nix" "interface.nix" "dunst.nix" "./")
 
